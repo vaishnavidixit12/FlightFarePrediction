@@ -50,20 +50,4 @@ The **Random Forest Regressor** and **XGBoost Regressor** performed the best, ac
 └── README.md                       # This readme file
 ```
 
-## Requirements
 
-To run this notebook, install the following Python libraries:
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn xgboost
-```
-
-## Usage
-
-Clone the repository and open the notebook using Jupyter or any compatible IDE:
-
-```bash
-git clone https://github.com/yourusername/flight-fare-prediction.git
-cd flight-fare-prediction
-jupyter notebook flight_fare_prediction.ipynb
-```
